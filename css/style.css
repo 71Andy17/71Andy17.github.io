@@ -10991,6 +10991,9 @@ a.article-nav-next span {
     margin-right: 0rem;
   }
 }
+footer.footer {
+  height: 227px;
+}
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
     text-align: center;
@@ -11005,6 +11008,9 @@ footer.footer .level-end .field {
     justify-content: center;
     margin-top: 1rem;
   }
+}
+.footer-logo {
+  margin-bottom: 2rem !important;
 }
 .footer-logo img {
   max-height: 1.75rem;
